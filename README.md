@@ -1,6 +1,6 @@
 <h3 align="center">Java, CPP</h3>
 <p align="center">
- <a href="https://tlgg.ru/didyoumuch"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
+ <a href="https://t.me/DidYouMuch"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
  <br>
 </p>
 
